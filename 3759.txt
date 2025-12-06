@@ -1,0 +1,31 @@
+Question :-3759. Count Elements With at Least K Greater Values
+
+You are given an integer array nums of length n and an integer k.
+
+An element in nums is said to be qualified if there exist at least k elements in the array that are strictly greater than it.
+
+Return an integer denoting the total number of qualified elements in nums.
+
+solution :- (Gives Time Limit Exceed) --> Because solution in O(n^2).
+class Solution {
+public:
+    int countElements(vector<int>& nums, int k) {
+        int n = nums.size();
+        int count = 0;
+        sort(nums.begin(), nums.end());
+        for(int i=0; i<n; i++){
+            int greater_num = 0;
+            for(int j=i+1; j<n; j++){
+                if(nums[i] < nums[j]){
+                    greater_num++;
+                }
+            }
+            if(greater_num >= k){
+                count++;
+            }
+        }
+
+        return count;
+    }
+};
+
