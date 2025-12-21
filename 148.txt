@@ -1,0 +1,40 @@
+Question.)--> Sort List
+Given the head of a linked list, return the list after sorting it in ascending order.
+
+solution.) -->
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* sortList(ListNode* head) {
+        vector<int> arr;
+        ListNode* temp = head;
+        while(temp != NULL){
+            arr.push_back(temp->val);
+            temp = temp->next;
+        }
+
+        sort(arr.begin(), arr.end());
+        temp = head;
+        for(int i=0; i<arr.size(); i++){
+            temp->val = arr[i];
+            temp = temp->next;
+        }
+
+        return head;
+    }
+};
+
+In this question i took help of array to store the element of linked list.
+Now I formed full array element present in the Linked List. So I will sort my array by the help of sort function.
+Then i will append all the element of array in linked list again.
+Time Complexity :- O(n. log(n))
+Space Complexity :- O(n)
