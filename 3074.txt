@@ -1,0 +1,39 @@
+Question 3074.)-->  Apple Redistribution into Boxes
+
+You are given an array apple of size n and an array capacity of size m.
+
+There are n packs where the ith pack contains apple[i] apples. There are m boxes as well, and the ith box has a capacity of capacity[i] apples.
+
+Return the minimum number of boxes you need to select to redistribute these n packs of apples into boxes.
+
+Note that, apples from the same pack can be distributed into different boxes.
+
+solution.)-->
+
+class Solution {
+public:
+    int minimumBoxes(vector<int>& apple, vector<int>& cap) {
+        int totAp = 0;
+        for(auto i:apple){
+            totAp += i;
+        }
+        sort(cap.begin(), cap.end(),  greater<int>());
+        
+        int count = 0;
+        int totCap = 0;
+        for(int i=0; i<cap.size(); i++){
+            if(totCap < totAp){
+                totCap += cap[i];
+                count++;
+            }
+        }
+
+        return count;
+    }
+};
+
+In this question I have simply sort the capacity list in descending order then calculate the apples less than it capacity or not.
+Then count 1 and return the result.
+
+Time Complexity :- O(n log(n))
+Space Complexity :- O(1)
