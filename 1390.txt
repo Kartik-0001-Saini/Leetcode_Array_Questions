@@ -1,0 +1,56 @@
+Question 1390.)--> Four Divisors
+Given an integer array nums, return the sum of divisors of the integers in that array that have exactly four divisors. If there is no such integer in the array, return 0.
+
+solution.)-->
+class Solution {
+public:
+
+    bool fourDiv(int n, vector<int>& allDiv){
+        allDiv.clear();
+
+        for(int i=1; i<=sqrt(n); i++){
+            if(n % i == 0){
+
+                if(n / i == i){
+                    allDiv.push_back(i);
+                }
+
+                else{
+                    allDiv.push_back(i);
+                    allDiv.push_back(n/i);
+                }
+
+                if(allDiv.size() > 4){
+                    return false;
+                }
+            }
+        }
+
+        return allDiv.size() == 4;
+    }
+
+In this I find the Divisor all a integer and stored in a vector if that vector size is equal to four then I return true otherwise false.
+
+    int sumFourDivisors(vector<int>& nums) {
+        vector<int> allDiv;
+        int sum = 0;
+
+        for(int num:nums){
+            if(fourDiv(num, allDiv)){
+                for(int i:allDiv){
+                    sum+=i;
+                }
+            }
+        }
+
+        return sum;
+    }
+};
+
+In this I will sum up the factor which I get from my function.
+
+Time Complexity :- O(N.sqrt(n))
+N--> for recursion
+n--> for n size array I want to sum of all element present in it.
+Space Complexity :- O(n)
+if they consider the space of vector.
