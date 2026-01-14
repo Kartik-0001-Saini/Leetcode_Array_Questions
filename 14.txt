@@ -1,0 +1,26 @@
+Question 14.) --> Longest Common Prefix
+Write a function to find the longest common prefix string amongst an array of strings.
+
+If there is no common prefix, return an empty string "".
+
+solution.)-->
+class Solution {
+public:
+    string longestCommonPrefix(vector<string>& strs) {
+        string temp = strs[0];
+        for(int i=1;i<strs.size();i++){
+            int index = 0;
+            for(char c:strs[i]){
+                if(c==temp[index]){
+                    index++;
+                }
+                else{
+                    break;
+                }
+            }
+            string temp2= temp.substr(0,index);
+            temp = temp2;
+        }
+        return temp;
+    }
+};
