@@ -1,0 +1,27 @@
+Question 961.) N-Repeated Element in Size 2N Array
+You are given an integer array nums with the following properties:
+
+nums.length == 2 * n.
+nums contains n + 1 unique values, n of which occur exactly once in the array.
+Exactly one element of nums is repeated n times.
+Return the element that is repeated n times.
+
+solution.)
+class Solution {
+public:
+    int repeatedNTimes(vector<int>& nums) {
+        unordered_set<int> st;
+        for(auto i:nums){
+            if(st.count(i)){
+                return i;
+            }
+
+            st.insert(i);
+        }
+
+        return -1;
+    }
+};
+
+Time Complexity :- O(n)
+Space Complexity :- O(n)
