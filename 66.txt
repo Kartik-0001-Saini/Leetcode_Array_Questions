@@ -1,0 +1,29 @@
+Question 66.) Plus One
+You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's.
+
+Increment the large integer by one and return the resulting array of digits.
+
+solution.)
+class Solution {
+public:
+    vector<int> plusOne(vector<int>& digits) {
+        int n = digits.size();
+
+        for(int i=n-1; i>=0; i--){
+            if(digits[i] < 9){
+                digits[i]++;
+                return digits;
+            }
+            digits[i] = 0;
+        }
+
+        digits.insert(digits.begin(), 1);
+        return digits;
+    }
+};
+In this i started the loop from last and add one in it if it is less than 9. And return the array.
+If it is 9 than we have to put at 0 and increase the just previous digit of array. And return it.
+If previous digit is not there then we have to append 1 in the array.
+
+Time Complexity :- O(n)
+Space Complexity :- O(1)
