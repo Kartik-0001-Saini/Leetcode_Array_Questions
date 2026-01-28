@@ -1,0 +1,31 @@
+Question 209.) Minimum Size Subarray Sum
+Given an array of positive integers nums and a positive integer target, return the minimal length of a subarray whose sum is greater than or equal to target. If there is no such subarray, return 0 instead.
+
+solution.)
+class Solution {
+public:
+    int minSubArrayLen(int target, vector<int>& nums) {
+        int left = 0, right = 0, n = nums.size();
+        int minLen = INT_MAX;
+        int currSum = 0;
+
+        for(int i=0; i<n; i++){
+            currSum += nums[right++];
+
+            while(currSum >= target){
+                minLen = min(minLen, right-left);
+                currSum -= nums[left++];
+            }
+        }
+
+        if(minLen == INT_MAX){
+            return 0;
+        }
+        else{
+            return minLen;
+        }
+    }
+};
+
+Time Complexity :- O(n)
+Space Complexity :- O(1)
