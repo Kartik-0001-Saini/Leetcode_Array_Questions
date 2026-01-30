@@ -1,0 +1,24 @@
+Question.) Toeplitz Matrix
+Given an m x n matrix, return true if the matrix is Toeplitz. Otherwise, return false.
+
+A matrix is Toeplitz if every diagonal from top-left to bottom-right has the same elements.
+
+solution.)
+class Solution {
+public:
+    bool isToeplitzMatrix(vector<vector<int>>& mat) {
+        int n = mat.size(), m = mat[0].size();
+        for(int i=0; i<n-1; i++){
+            for(int j=0; j<m-1; j++){
+                if(mat[i][j] != mat[i+1][j+1]){
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
+};
+
+Time Complexity :- O(n^2)
+Space Complexity :- O(1)
