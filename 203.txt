@@ -47,3 +47,24 @@ For head pointer you have to check again that value is null or not.
 
 Time Complexity :- O(n)
 Space Complexity :- O(1)
+
+Method 2 - By Recursion
+class Solution {
+public:
+    ListNode* removeElements(ListNode* head, int val) {
+        if(head == NULL){
+            return NULL;
+        }
+        // We call function
+        head->next = removeElements(head->next, val);
+        if(head->val == val){
+            // return head->next;
+            ListNode* temp = head->next;
+            delete head;
+            return temp;
+        }
+        else{
+            return head;
+        }
+    }
+};
