@@ -1,0 +1,53 @@
+Question 74.) Search a 2D Matrix
+You are given an m x n integer matrix matrix with the following two properties:
+
+Each row is sorted in non-decreasing order.
+The first integer of each row is greater than the last integer of the previous row.
+Given an integer target, return true if target is in matrix or false otherwise.
+
+You must write a solution in O(log(m * n)) time complexity.
+
+solution.)
+class Solution {
+public:
+    bool searchMatrix(vector<vector<int>>& mat, int target) {
+        int row = mat.size(), col = mat[0].size();
+        int foundRow = -1;
+
+        int st = 0, end = row-1;
+        while(st <= end){
+            int mid = st + (end-st)/2;
+            if(mat[mid][0] <= target && mat[mid][col-1] >= target){
+                foundRow = mid;
+                break;
+            }
+            else if(mat[mid][0] > target){
+                end = mid-1;
+            }
+            else{
+                st = mid+1;
+            }
+        }
+
+        if(foundRow == -1){
+            return false;
+        }
+
+        int st_col = 0, end_col = col-1;
+        while(st_col <= end_col){
+            int mid = st_col + (end_col - st_col)/2;
+            if(mat[foundRow][mid] == target){
+                return true;
+            }
+            else if(mat[foundRow][mid] < target){
+                st_col = mid+1;
+            }
+            else{
+                end_col = mid-1;
+            }
+        }
+        return false;
+    }
+};
+
+Time Complexity:- O(log(m * n))
