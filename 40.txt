@@ -44,3 +44,51 @@ public:
 };
 
 In this method, I used backtracking approach but it gives me TLE(Time Limited Exceed).
+
+
+Method 2:-
+class Solution {
+public:
+
+    // set<vector<int>> numSet;
+    void backtrack(vector<int>& candidates, int target, int idx, vector<int>& combine, vector<vector<int>>& res){
+        if(target == 0){
+            res.push_back(combine);
+            return;
+        }
+
+        if(target <  0){
+            return;
+        }
+
+        for(int i=idx; i<candidates.size(); i++){
+            // Condition to don't take duplicates
+            if(i > idx && candidates[i] == candidates[i-1]){
+                continue;
+            }
+
+            if(candidates[i] > target){
+                break;
+            }
+
+            // If we wnt to take the element
+            combine.push_back(candidates[i]);
+            
+            // Backtracking
+            backtrack(candidates, target-candidates[i], i+1, combine, res);
+            
+            // If we didn't want to take the number
+            combine.pop_back();
+        }
+    }
+
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        sort(candidates.begin(), candidates.end());
+        vector<int> combine;
+        vector<vector<int>> res;
+
+        backtrack(candidates, target, 0, combine, res);
+
+        return res;
+    }
+};
