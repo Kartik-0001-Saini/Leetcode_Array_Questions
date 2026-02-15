@@ -1,0 +1,38 @@
+Question 77.) Combinations
+Given two integers n and k, return all possible combinations of k numbers chosen from the range [1, n].
+
+You may return the answer in any order.
+
+solution.)
+class Solution {
+public:
+
+    void backtrack(int n, int k, int st, vector<int>& allCombine, vector<vector<int>>& res){
+        if(allCombine.size() == k){
+            res.push_back(allCombine);
+            return;
+        }
+        if(st > n){
+            return;
+        }
+
+        // Here I am adding element in my array
+        allCombine.push_back(st);
+        backtrack(n, k, st+1, allCombine, res);
+
+        // Here I am removing element in my array
+        allCombine.pop_back();
+        backtrack(n, k, st+1, allCombine, res);
+    }
+
+    vector<vector<int>> combine(int n, int k) {
+        vector<int> allCombine;
+        vector<vector<int>> res;
+
+        backtrack(n, k, 1, allCombine, res);
+
+        return res;
+    }
+};
+
+Time Complexity :- O(2^n)
