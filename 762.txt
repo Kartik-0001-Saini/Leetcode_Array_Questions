@@ -1,0 +1,77 @@
+Question.) Prime Number of Set Bits in Binary Representation
+Given two integers left and right, return the count of numbers in the inclusive range [left, right] having a prime number of set bits in their binary representation.
+
+Recall that the number of set bits an integer has is the number of 1's present when written in binary.
+
+For example, 21 written in binary is 10101, which has 3 set bits.
+
+solution.)
+class Solution {
+public:
+
+    string binConv(int num){
+        string bin = "";
+        while(num > 0){
+            int dig = num%2;
+            bin+=to_string(dig);
+            num /= 2;
+        }
+
+        int i=0, j=bin.size()-1;
+        while(i < j){
+            swap(bin[i++], bin[j--]);
+        }
+
+        return bin;
+    }
+
+    void findBin(int left, int right, vector<string>& res){
+        for(int i=left; i<=right; i++){
+            string bin = binConv(i);
+            res.push_back(bin);
+        }
+    }
+
+    void countOne(vector<string>& res, vector<int>& arrOne){
+        for(auto i:res){
+            int count = 0;
+            for(auto j:i){
+                if(j == '1'){
+                    count++;
+                }
+            }
+            arrOne.push_back(count);
+        }
+    }
+
+    bool isPrime(int n){
+        if(n <= 1){
+            return false;
+        }
+        else{
+            for(int i=2; i*i<=n; i++){
+                if(n%i==0){
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+
+    int countPrimeSetBits(int left, int right) {
+        vector<string> res;
+        findBin(left, right, res);
+
+        vector<int> arrOne;
+        countOne(res, arrOne);
+
+        int count = 0;
+        for(auto i:arrOne){
+            if(isPrime(i)){
+                count++;
+            }
+        }
+
+        return count;
+    }
+};
