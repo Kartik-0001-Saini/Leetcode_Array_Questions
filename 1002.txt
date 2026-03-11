@@ -1,0 +1,57 @@
+Question 1002.) Complement of Base 10 Integer
+The complement of an integer is the integer you get when you flip all the 0's to 1's and all the 1's to 0's in its binary representation.
+
+For example, The integer 5 is "101" in binary and its complement is "010" which is the integer 2.
+Given an integer n, return its complement.
+
+solution.)
+class Solution {
+public:
+
+    string convertIntToBin(int n){
+        string ans = "";
+        while(n > 0){
+            int dig = n % 2;
+            ans += to_string(dig);
+            n /= 2;
+        }
+
+        int i=0, j=ans.size()-1;
+        while(i<j){
+            swap(ans[i++], ans[j--]);
+        }
+
+        string binComp = "";
+        for(auto i:ans){
+            if(i == '1'){
+                binComp+="0";
+            }
+            else{
+                binComp+="1";
+            }
+        }
+
+        return binComp;
+    }
+
+    int convertBinToInt(string bin){
+        int ans = 0;
+        for(auto i:bin){
+            ans = ans*2 + (i-'0');
+        }
+
+        return ans;
+    }
+
+    int bitwiseComplement(int n) {
+        if(n == 0){
+            return 1;
+        }
+        string bin = convertIntToBin(n);
+        cout<<bin;
+        int res = convertBinToInt(bin);
+        return res;
+    }
+};
+Time Complexity :- O(n)
+Space Complexity :- O(1)
