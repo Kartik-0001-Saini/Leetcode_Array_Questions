@@ -1,0 +1,61 @@
+Question 36.) Valid Sudoku
+Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:
+
+Each row must contain the digits 1-9 without repetition.
+Each column must contain the digits 1-9 without repetition.
+Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without repetition.
+Note:
+
+A Sudoku board (partially filled) could be valid but is not necessarily solvable.
+Only the filled cells need to be validated according to the mentioned rules.
+
+solution.)
+class Solution {
+public:
+
+    bool isSafe(vector<vector<char>>& board, int row, int col, int num){
+        
+        // Column check
+        for(int i=0; i<9; i++){
+            if(i != row && board[i][col] != '.' && board[i][col]-'1' == num){
+                return false;
+            }
+        }
+
+        // Row check
+        for(int i=0; i<9; i++){
+            if(i != col && board[row][i] != '.' && board[row][i]-'1' == num){
+                return false;
+            }
+        }
+
+        // Grid check
+        int stRow = (row/3)*3;
+        int stCol = (col/3)*3;
+        for(int i=stRow; i<=stRow+2; i++){
+            for(int j=stCol; j<=stCol+2; j++){
+                if((i != row || j != col) && board[i][j] != '.' && board[i][j]-'1' == num){
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
+
+    bool isValidSudoku(vector<vector<char>>& board) {
+        for(int i=0; i<9; i++){
+            for(int j=0; j<9; j++){
+                if(board[i][j] != '.'){
+                    int num = board[i][j] - '1';
+                    if(!isSafe(board, i, j, num)){
+                        return false;
+                    }
+                }
+            }
+        }
+
+        return true;
+    }
+};
+
