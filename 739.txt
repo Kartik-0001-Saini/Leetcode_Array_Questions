@@ -1,0 +1,31 @@
+Question 739.)Daily Temperatures
+Given an array of integers temperatures represents the daily temperatures, return an array answer such that answer[i] is the number of days you have to wait after the ith day to get a warmer temperature. If there is no future day for which this is possible, keep answer[i] == 0 instead.
+
+solution.)
+class Solution {
+public:
+    vector<int> dailyTemperatures(vector<int>& temp) {
+        int n = temp.size();
+        vector<int> res(n);
+        stack<int> st;
+
+        for(int i=0; i<n; i++){
+            while(!st.empty() && temp[i] > temp[st.top()]){
+                int idx = st.top();
+                st.pop();
+                res[idx] = i - idx;
+            }
+            st.push(i);
+        }
+        while(!st.empty()){
+            int idx = st.top();
+            st.pop();
+            res[idx] = 0;
+        }
+
+        return res;
+    }
+};
+
+Time Complexity :- O(n)
+Space Complexity :- O(n)
