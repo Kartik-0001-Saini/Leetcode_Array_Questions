@@ -1,0 +1,43 @@
+Question 3546.) Equal Sum Grid Partition I
+You are given an m x n matrix grid of positive integers. Your task is to determine if it is possible to make either one horizontal or one vertical cut on the grid such that:
+
+Each of the two resulting sections formed by the cut is non-empty.
+The sum of the elements in both sections is equal.
+Return true if such a partition exists; otherwise return false.
+
+solution.) 
+class Solution {
+public:
+    bool canPartitionGrid(vector<vector<int>>& mat) {
+        int row = mat.size(), col = mat[0].size();
+        long long totalSum = 0;
+        
+        // sum of matrix
+        for(auto &r: mat){
+            for(auto i:r){
+                totalSum += i;
+            }
+        }
+
+        long long preSum = 0;
+        for(int i=0; i<row-1; i++){
+            for(int j=0; j<col; j++){
+                preSum += mat[i][j];
+            }
+            if(preSum == totalSum - preSum) return true;
+        }
+
+        preSum = 0;
+        for(int i=0; i<col-1; i++){
+            for(int j=0; j<row; j++){
+                preSum += mat[j][i];
+            }
+            if(preSum == totalSum - preSum) return true;
+        }
+
+        return false;
+    }
+};
+
+Time Complexity :- O(n^2)
+Space Complexity :- O(1)
