@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
