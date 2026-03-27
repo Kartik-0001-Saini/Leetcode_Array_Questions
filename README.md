@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3637-trionic-array-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3637-trionic-array-i) |
 ## Math
 |  |
 | ------- |
