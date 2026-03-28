@@ -1,22 +1,24 @@
 class Solution {
 public:
     string getHint(string secret, string guess) {
-        int bull = 0, cow = 0;
         int n = secret.size();
-        vector<int> freq(10, 0);
+        int bulls = 0, cows = 0;
+        vector<int> sarr(10, 0);
+        vector<int> garr(10, 0);
 
         for(int i=0; i<n; i++){
-            if(secret[i] == guess[i]) bull++;
+            if(secret[i] == guess[i]) bulls++;
 
             else{
-                if(freq[secret[i] - '0'] < 0) cow++;
-                if(freq[guess[i] - '0'] > 0) cow++;
-
-                freq[secret[i] - '0']++;
-                freq[guess[i] - '0']--;
+                sarr[secret[i] - '0']++;
+                garr[guess[i] - '0']++;
             }
         }
 
-        return to_string(bull) + "A" + to_string(cow) + "B";
+        for(int i=0; i<10; i++){
+            cows+=min(sarr[i], garr[i]);
+        }
+
+        return to_string(bulls) + "A" + to_string(cows) + "B";
     }
 };
