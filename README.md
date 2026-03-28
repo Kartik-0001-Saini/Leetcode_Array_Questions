@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0299-bulls-and-cows](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0299-bulls-and-cows) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0299-bulls-and-cows](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0299-bulls-and-cows) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0016-3sum-closest) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
