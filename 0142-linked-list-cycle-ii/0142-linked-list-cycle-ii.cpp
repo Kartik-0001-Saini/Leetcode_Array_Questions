@@ -27,7 +27,7 @@ public:
         if(!isCycle){
             return NULL;
         }
-
+        // simply getting the position is present or not
         slow = head;
         while(slow != fast){
             slow = slow->next;
