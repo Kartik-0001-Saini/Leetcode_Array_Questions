@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0016-3sum-closest) |
+| [0086-partition-list](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0002-add-two-numbers) |
+| [0086-partition-list](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
