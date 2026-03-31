@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0002-add-two-numbers) |
+| [0223-rectangle-area](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0223-rectangle-area) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0198-house-robber) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
