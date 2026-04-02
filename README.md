@@ -87,4 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
