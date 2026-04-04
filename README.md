@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -104,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search
 |  |
