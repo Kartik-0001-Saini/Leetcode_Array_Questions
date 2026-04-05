@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0657-robot-return-to-origin) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Backtracking
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0657-robot-return-to-origin) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Two Pointers
 |  |
