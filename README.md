@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0263-ugly-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0202-happy-number) |
 | [0299-bulls-and-cows](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0389-find-the-difference) |
 ## String
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0016-3sum-closest) |
 | [0086-partition-list](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
