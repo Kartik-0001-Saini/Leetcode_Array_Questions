@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0074-search-a-2d-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0016-3sum-closest) |
 | [0086-partition-list](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0074-search-a-2d-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
