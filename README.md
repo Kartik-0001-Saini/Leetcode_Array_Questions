@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0198-house-robber](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0198-house-robber) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0334-increasing-triplet-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0494-target-sum](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0494-target-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3637-trionic-array-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3637-trionic-array-i) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0016-3sum-closest) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
@@ -138,9 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0334-increasing-triplet-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
