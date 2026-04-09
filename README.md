@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0113-path-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0513-find-bottom-left-tree-value) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0113-path-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0513-find-bottom-left-tree-value) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0623-add-one-row-to-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0623-add-one-row-to-tree) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0113-path-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0513-find-bottom-left-tree-value) |
