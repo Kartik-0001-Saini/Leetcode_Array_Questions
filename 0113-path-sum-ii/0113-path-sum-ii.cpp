@@ -12,7 +12,7 @@
 class Solution {
 public:
 
-    void backtrack(TreeNode* root, int target, int sum, vector<int>ans, vector<vector<int>>& res){
+    void backtrack(TreeNode* root, int target, int sum, vector<int>& ans, vector<vector<int>>& res){
         // base condition
         if(root == NULL){
             return;
@@ -24,7 +24,7 @@ public:
         // condition to append in res vector
         if(root->left == NULL && root->right == NULL && sum == target){
             res.push_back(ans);
-            return;
+            // return;
         }
         // Here i doing backtracking in left and right branch
         backtrack(root->left, target, sum, ans, res);
