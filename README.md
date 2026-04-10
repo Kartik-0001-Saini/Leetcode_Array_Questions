@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0494-target-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3637-trionic-array-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3637-trionic-array-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0202-happy-number) |
 | [0299-bulls-and-cows](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0389-find-the-difference) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
