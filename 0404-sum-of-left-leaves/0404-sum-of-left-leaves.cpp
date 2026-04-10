@@ -12,18 +12,18 @@
 class Solution {
 public:
     int sumOfLeftLeaves(TreeNode* root) {
-        int count = 0;
         if(root == NULL){
             return 0;
         }
 
+        int sum = 0;
         if(root->left != NULL && root->left->left == NULL && root->left->right == NULL){
-            count += root->left->val;
+            sum += root->left->val;
         }
 
-        count+=sumOfLeftLeaves(root->left);
-        count+=sumOfLeftLeaves(root->right);
+        sum+=sumOfLeftLeaves(root->left);
+        sum+=sumOfLeftLeaves(root->right);
 
-        return count;
+        return sum;
     }
 };
