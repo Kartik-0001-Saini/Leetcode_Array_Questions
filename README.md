@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3488-closest-equal-element-queries](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3488-closest-equal-element-queries) |
