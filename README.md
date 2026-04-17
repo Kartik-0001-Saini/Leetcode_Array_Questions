@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0202-happy-number) |
 | [0299-bulls-and-cows](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0389-find-the-difference) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0187-repeated-dna-sequences](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0227-basic-calculator-ii) |
 | [0299-bulls-and-cows](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0187-repeated-dna-sequences) |
 ## Tree
 |  |
 | ------- |
@@ -193,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0227-basic-calculator-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
