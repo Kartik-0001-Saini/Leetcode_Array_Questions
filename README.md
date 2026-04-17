@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3488-closest-equal-element-queries) |
 | [3637-trionic-array-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3637-trionic-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0263-ugly-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0389-find-the-difference) |
 | [3488-closest-equal-element-queries](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
