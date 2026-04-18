@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0263-ugly-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
