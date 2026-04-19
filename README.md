@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0342-power-of-four) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -119,11 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0342-power-of-four](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
