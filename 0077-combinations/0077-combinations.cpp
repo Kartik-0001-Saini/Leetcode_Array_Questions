@@ -1,26 +1,24 @@
 class Solution {
 public:
 
-    void getAllCombination(int n, int k, int st, vector<int>& allCombine, vector<vector<int>>& res){
-        if(allCombine.size() == k){
-            res.push_back(allCombine);
+    void backtrack(int n, int k, int st, vector<int> ans, vector<vector<int>>& res){
+        if(ans.size() == k){
+            res.push_back(ans);
             return;
         }
 
-        if(st > n) return;
-
-        allCombine.push_back(st);
-        getAllCombination(n, k, st+1, allCombine, res);
-        allCombine.pop_back();
-        getAllCombination(n, k, st+1, allCombine, res);
-
+        for(int i = st; i <= n; i++){
+            ans.push_back(i);
+            backtrack(n, k, i+1, ans, res);
+            ans.pop_back();
+        }
     }
 
     vector<vector<int>> combine(int n, int k) {
-        vector<int> allCombine;
+        vector<int> ans;
         vector<vector<int>> res;
 
-        getAllCombination(n, k, 1, allCombine, res);
+        backtrack(n, k, 1, ans, res);
         return res;
     }
 };
