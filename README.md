@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0198-house-robber) |
+| [0216-combination-sum-iii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0216-combination-sum-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
