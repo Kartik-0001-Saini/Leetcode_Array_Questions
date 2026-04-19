@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0326-power-of-three) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
