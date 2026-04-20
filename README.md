@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0342-power-of-four) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0086-partition-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
