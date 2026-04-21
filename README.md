@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0092-reverse-linked-list-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
