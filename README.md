@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0623-add-one-row-to-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
