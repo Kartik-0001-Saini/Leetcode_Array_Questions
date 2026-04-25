@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0202-happy-number) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0494-target-sum) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0042-trapping-rain-water) |
 | [0227-basic-calculator-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0316-remove-duplicate-letters) |
 ## Rolling Hash
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0316-remove-duplicate-letters) |
 ## Divide and Conquer
 |  |
