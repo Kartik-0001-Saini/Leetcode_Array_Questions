@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0187-repeated-dna-sequences) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0389-find-the-difference) |
