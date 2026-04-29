@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0494-target-sum) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0053-maximum-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0324-wiggle-sort-ii) |
 ## Quickselect
 |  |
