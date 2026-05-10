@@ -1,26 +1,21 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int n = height.size();
-        int st = 0, end = n-1;
-        int maxArea = 0;
-        // in this we simply we take two pointer..
-        while(st < end){
-            // finding the min. height b/w both the pointer
-            int ht = min(height[st], height[end]);
-            // finding width 
-            int wth = end - st;
-            // calculating area
-            maxArea = max(maxArea, wth*ht);
-            // if 1st pointer is less than 2nd one than we proceed pointer to next
-            if(height[st] < height[end]){
-                st++;
+        int i=0, j = height.size()-1;
+        int maxWater = 0;
+        // int minHeight;/
+        while(i < j){
+            int width = j-i;
+            int minHeight = min(height[i], height[j]);
+            maxWater = max(maxWater, width * minHeight);
+            if(height[i] < height[j]){
+                i++;
             }
             else{
-                end--;
+                j--;
             }
         }
 
-        return maxArea;
+        return maxWater;
     }
 };
