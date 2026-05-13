@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0494-target-sum](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0500-keyboard-row) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0500-keyboard-row) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3488-closest-equal-element-queries](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0451-sort-characters-by-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 <!---LeetCode Topics End-->
