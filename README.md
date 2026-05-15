@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0216-combination-sum-iii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
