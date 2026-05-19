@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1861-rotating-the-box) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0500-keyboard-row) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2540-minimum-common-value](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0202-happy-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3488-closest-equal-element-queries) |
 ## Greedy
 |  |
