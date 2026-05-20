@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0027-remove-element) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0125-valid-palindrome) |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
