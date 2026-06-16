@@ -7,10 +7,7 @@ public:
                 res+=s[i];
             }
             else if(s[i] == '#'){
-                int n = res.size();
-                for(int i=0; i<n; i++){
-                    res += res[i];
-                }
+                res+=res;
             }
             else if(s[i] == '%' && res.size() > 0){
                 reverse(res.begin(), res.end());
