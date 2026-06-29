@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1861-rotating-the-box) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0657-robot-return-to-origin) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2278-percentage-of-letter-in-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2278-percentage-of-letter-in-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2833-furthest-point-from-origin) |
