@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0500-keyboard-row) |
 | [1288-remove-covered-intervals](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1833-maximum-ice-cream-bars) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0567-permutation-in-string) |
+| [1331-rank-transform-of-an-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2784-check-if-array-is-good) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1288-remove-covered-intervals](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2784-check-if-array-is-good](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2784-check-if-array-is-good) |
 ## Counting
