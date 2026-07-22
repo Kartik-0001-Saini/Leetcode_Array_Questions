@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1861-rotating-the-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2109-adding-spaces-to-a-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0657-robot-return-to-origin) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2109-adding-spaces-to-a-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2109-adding-spaces-to-a-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3612-process-string-with-special-operations-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3612-process-string-with-special-operations-i) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
