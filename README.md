@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1861-rotating-the-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2109-adding-spaces-to-a-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1833-maximum-ice-cream-bars) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2784-check-if-array-is-good](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1833-maximum-ice-cream-bars) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Heap (Priority Queue)
 |  |
