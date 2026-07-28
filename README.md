@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1833-maximum-ice-cream-bars) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0657-robot-return-to-origin) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2109-adding-spaces-to-a-string) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0494-target-sum) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Geometry
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0624-maximum-distance-in-arrays) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3689-maximum-total-subarray-value-i) |
