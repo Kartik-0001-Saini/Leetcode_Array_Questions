@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1732-find-the-highest-altitude) |
+| [1813-sentence-similarity-iii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1813-sentence-similarity-iii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0657-robot-return-to-origin) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1813-sentence-similarity-iii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1813-sentence-similarity-iii) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2109-adding-spaces-to-a-string) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0567-permutation-in-string) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1813-sentence-similarity-iii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1813-sentence-similarity-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
