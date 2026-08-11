@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1732-find-the-highest-altitude) |
 | [1813-sentence-similarity-iii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1813-sentence-similarity-iii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1861-rotating-the-box) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2784-check-if-array-is-good](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2784-check-if-array-is-good) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0567-permutation-in-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Tree
 |  |
 | ------- |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3488-closest-equal-element-queries) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Heap (Priority Queue)
@@ -406,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1732-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
