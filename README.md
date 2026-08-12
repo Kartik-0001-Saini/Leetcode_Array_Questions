@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0500-keyboard-row) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0624-maximum-distance-in-arrays) |
+| [0904-fruit-into-baskets](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0904-fruit-into-baskets) |
 | [1288-remove-covered-intervals](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0904-fruit-into-baskets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Tree
 |  |
