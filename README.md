@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1652-defuse-the-bomb](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1652-defuse-the-bomb) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1732-find-the-highest-altitude) |
 | [1813-sentence-similarity-iii](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1813-sentence-similarity-iii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kartik-0001-Saini/Leetcode_Array_Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Tree
 |  |
